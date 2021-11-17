@@ -1,3 +1,2 @@
-    # else:
-    #     print("Please input a valid size")
-    #     continue
+    for ar in args:
+        print(ar)
